@@ -1,6 +1,6 @@
 # PyTuring
 IT2023 HW2
-`TuringMachine` is a class that simulates a Turing machine itself.
+  `TuringMachine` is a class that simulates a Turing machine itself.
 
 The `__init__` method is the initializer for the class.
 When a new instance of `TuringMachine` is created, this method sets up the initial state of the machine.
